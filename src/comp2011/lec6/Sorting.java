@@ -79,7 +79,7 @@ public class Sorting {
         // Note that in copyOfRange, the last index is exclusive.
         mergesort(b);
         mergesort(c);
-        a = merge(b, c);
+       // a = merge(b, c);
     }
 	
 	public static void main(String[] args) {

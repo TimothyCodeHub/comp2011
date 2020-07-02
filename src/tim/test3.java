@@ -68,7 +68,7 @@ public class test3 {
 	
 	public  static void main(String[] args) {
 		test3 t3 = new test3();
-		int[] a = {5,4,3,2,1};
+		int[] a = {5,4,3,9,2,1};
 		t3.selectionSort(a);
 		System.out.println(Arrays.toString(a));
 	}
